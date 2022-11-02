@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\Hammurabi\Hammurabi\Game.cpp(63,39): warning C4244: -=: преобразование "float" в "long", возможна потеря данных
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\Hammurabi\Hammurabi\Game.cpp(113,13): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\Hammurabi\Hammurabi\Game.cpp(73): warning C4715: Game::enteringActions: значение возвращается не при всех путях выполнения
+  Hammurabi.vcxproj -> C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\Hammurabi\Hammurabi\x64\Debug\Hammurabi.exe

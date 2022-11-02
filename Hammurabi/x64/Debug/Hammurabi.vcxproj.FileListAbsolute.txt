@@ -1,0 +1,2 @@
+C:\Users\Danil\Desktop\ИТМО\Основы разработки компьютерных игр\Hammurabi\Hammurabi\x64\Debug\Hammurabi.exe
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\Hammurabi\Hammurabi\x64\Debug\Hammurabi.exe
