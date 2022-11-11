@@ -1,0 +1,14 @@
+﻿  QuickSortUnitTest.cpp
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSortUnitTest\QuickSortUnitTest.cpp(26,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSortUnitTest\QuickSortUnitTest.cpp(42,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSortUnitTest\QuickSortUnitTest.cpp(65,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSortUnitTest\QuickSortUnitTest.cpp(81,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSortUnitTest\QuickSortUnitTest.cpp(104,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSortUnitTest\QuickSortUnitTest.cpp(106,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSortUnitTest\QuickSortUnitTest.cpp(120,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSortUnitTest\QuickSortUnitTest.cpp(122,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSortUnitTest\QuickSortUnitTest.cpp(143,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSortUnitTest\QuickSortUnitTest.cpp(145,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSortUnitTest\QuickSortUnitTest.cpp(159,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSortUnitTest\QuickSortUnitTest.cpp(161,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  QuickSortUnitTest.vcxproj -> C:\Users\Danil\Desktop\ИТМО\Анализ и разработка алгоритмов\QuickSort\x64\Debug\QuickSortUnitTest.dll
